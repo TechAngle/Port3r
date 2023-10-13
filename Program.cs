@@ -24,7 +24,6 @@ public class PortCheckerApp : Form
         3128,  // Squid Proxy
         3306,  // MySQL
         3389,  // RDP
-        4444,  // Alternative for 4444
         5060,  // SIP/VoIP
         5061,  // SIP/VoIP
         5432,  // PostgreSQL
@@ -48,7 +47,7 @@ public class PortCheckerApp : Form
         3128,  // Squid Proxy
         3260,  // iSCSI
         3389,  // RDP
-        4444,  // Alternative for 4444
+        4444,  // Viruses 
     };
 
     private Button checkButton;
