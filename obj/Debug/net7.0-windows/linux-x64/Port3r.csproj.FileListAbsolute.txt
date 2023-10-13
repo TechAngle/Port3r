@@ -1,0 +1,15 @@
+S:\Port3r\bin\Debug\net7.0-windows\linux-x64\Port3r
+S:\Port3r\bin\Debug\net7.0-windows\linux-x64\Port3r.deps.json
+S:\Port3r\bin\Debug\net7.0-windows\linux-x64\Port3r.runtimeconfig.json
+S:\Port3r\bin\Debug\net7.0-windows\linux-x64\Port3r.dll
+S:\Port3r\bin\Debug\net7.0-windows\linux-x64\Port3r.pdb
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.csproj.AssemblyReference.cache
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.GeneratedMSBuildEditorConfig.editorconfig
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.AssemblyInfoInputs.cache
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.AssemblyInfo.cs
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.csproj.CoreCompileInputs.cache
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.dll
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\refint\Port3r.dll
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.pdb
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\Port3r.genruntimeconfig.cache
+S:\Port3r\obj\Debug\net7.0-windows\linux-x64\ref\Port3r.dll

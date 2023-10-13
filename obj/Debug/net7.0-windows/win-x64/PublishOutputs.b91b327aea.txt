@@ -1,0 +1,2 @@
+S:\Port3r\bin\Debug\net7.0-windows\win-x64\publish\Port3r.pdb
+S:\Port3r\bin\Debug\net7.0-windows\win-x64\publish\Port3r.exe
