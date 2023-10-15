@@ -116,22 +116,6 @@ public class PortCheckerApp : Form
             : "Opened dangerous ports:\r\n" + "Port:"+string.Join("\r\n", openPorts);
     }
 
-    private static async Task<bool> IsPortOpenAsync(string host, int port)
-    {
-        using (var client = new TcpClient())
-        {
-            try
-            {
-                await client.ConnectAsync(host, port);
-                return true;
-            }
-            catch
-            {
-                return false;
-            }
-        }
-    }
-
     public static void Main()
     {
         Application.Run(new PortCheckerApp());
